@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkcan Meriç</h1>
-<h3 align="center">Test Automation Engineer at Curie Soft || 4rd-year Computer Engineering Student at Dokuz Eylul University</h3>
+<h3 align="center">Test Automation and QA Engineer at Curie Soft || 4rd-year Computer Engineering Student at Dokuz Eylul University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanmeric&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanmeric" /> </p>
 
