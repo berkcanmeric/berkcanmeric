@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanmeric&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanmeric" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing and BackEnd at Curie Soft Projects**
+- 🔭 I’m currently working on **Automation Testing and QA at Curie Soft Projects**
 
 - 🌱 I’m currently learning **Cucumber BDD**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything about software testing**
 
 - 📫 How to reach me **berkcanmeric99@hotmail.com**
 
