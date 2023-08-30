@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Automation Testing and QA at Curie Soft Projects**
 
-- 🌱 I’m currently learning **REST Assurred**
+- 🌱 I’m currently learning **Karate DSL**
 
 - 💬 Ask me about **Anything about software testing**
 
