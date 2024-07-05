@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanmeric&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanmeric" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing and QA at Curie Soft Projects**
+- 🔭 I’m currently working on **Automation Testing and QA at Masomo Projects**
 
-- 🌱 I’m currently learning **Karate DSL**
+- 🌱 I’m currently learning **Playwright**
 
 - 💬 Ask me about **Anything about software testing**
 
