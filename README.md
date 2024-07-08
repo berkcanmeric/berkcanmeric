@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkcan Meriç</h1>
-<h3 align="center">Test Automation and QA Engineer</h3>
+<h3 align="center">Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanmeric&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanmeric" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing and QA at Masomo Projects**
+- 🔭 I’m currently working on **Automation Testing at Masomo Projects**
 
 - 🌱 I’m currently learning **Playwright**
 
