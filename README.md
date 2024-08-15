@@ -18,8 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png" alt="playwright" width="40" height="40"/>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/60171460/197628903-2fb455b3-08a5-4524-8f34-6a330e3601c6.svg" alt="cypress" width="40" height="40"/> </a>  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/60171460/197628797-2b34b8b4-de79-431c-b002-79d7fd247dde.svg" alt="playwright" width="40" height="40"/>
 </a>
 <a href="https://intuit.github.io/karate/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/91312095?s=48&v=4" alt="karate dsl" width="40" height="40"/>
