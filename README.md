@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkcan Meric</h1>
 <h3 align="center">Test Automation Engineer</h3>
 
-- 🔭 I’m currently working on [Head Ball 2](https://play.google.com/store/apps/details?id=com.masomo.headball2&hl=tr)
+- 🔭 I’m currently working on [Turkish Technology Projects](https://turkishtechnology.com/#)
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Cypress**
 
