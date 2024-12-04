@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkcan Meric</h1>
-<h3 align="center">Test Automation Engineer</h3>
+<h3 align="center">Software Developer In Test</h3>
 
 - 🔭 I’m currently working on [Turkish Technology Projects](https://turkishtechnology.com/#)
 
