@@ -57,6 +57,22 @@ I design and build test automation frameworks and CI/CD pipelines at scale. Curr
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+
+<img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
+
 <div align="center">
 
 ![Snake animation](https://github.com/berkcanmeric/berkcanmeric/blob/output/github-snake-dark.svg)
