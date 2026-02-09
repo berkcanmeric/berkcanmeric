@@ -57,17 +57,6 @@ I design and build test automation frameworks and CI/CD pipelines at scale. Curr
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkcanmeric&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcanmeric&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
----
-
 <div align="center">
 
 ![Snake animation](https://github.com/berkcanmeric/berkcanmeric/blob/output/github-snake-dark.svg)
